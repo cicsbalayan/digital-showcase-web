@@ -112,6 +112,26 @@
       "author": "Jasper Rosales",
       "status": "approved",
       "createdAt": "2026-08-05"
+    },
+    {
+      "slug": "stuck-on-you",
+      "name": "Stuck on You",
+      "tagline": "An anonymous Valentine's message board with digital sticky notes on a shared corkboard.",
+      "description": "Stuck on You is an anonymous message board for the Valentine's season, offering a safe space to vent, confess feelings, or express gratitude through digital sticky notes on a shared corkboard wall.",
+      "purpose": "To give users a fun, anonymous way to share confessions, gratitude, and messages during Valentine's season.",
+      "target": "Students and community members wanting to send anonymous Valentine's messages.",
+      "howItWorks": "Write an anonymous note with a recipient, optional alias, and color, then submit it to a live corkboard that auto-cycles and supports manual pagination. Includes a LoveHue popup for discovering love languages.",
+      "icon": "/images/apps/stuck-on-you/stuck-on-you.ico",
+      "url": "https://stuck-on-you.vercel.app/",
+      "screenshots": [
+        "/images/apps/stuck-on-you/1.png",
+        "/images/apps/stuck-on-you/2.png",
+        "/images/apps/stuck-on-you/3.png"
+      ],
+      "github": "https://github.com/BagunasJohnrey/Stuck-on-You",
+      "author": "Iverene Grace M. Causapin & John Rey V. Bagunas",
+      "status": "approved",
+      "createdAt": "2026-08-26"
     }
   ]
 }
