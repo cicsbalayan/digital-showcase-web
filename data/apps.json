@@ -1,73 +1,6 @@
 {
   "apps": [
     {
-      "slug": "resume-analyzer",
-      "name": "Resume Analyzer",
-      "tagline": "AI-powered resume analysis with ATS scoring and actionable feedback.",
-      "description": "Analyze resumes against job descriptions using AI to identify ATS compatibility, missing skills, and tailored recommendations for improvement.",
-      "purpose": "To help job seekers optimize their resumes before applying for internships and full-time positions.",
-      "target": "Students, fresh graduates, and professionals preparing job applications.",
-      "howItWorks": "Upload or paste a resume together with a job description. The AI evaluates the resume, highlights strengths and weaknesses, provides an ATS score, and suggests improvements.",
-      "icon": "/images/apps/resume-analyzer/resume-analyzer.ico",
-      "url": "https://resume-analyzer-beta-seven.vercel.app/",
-      "screenshots": [
-        "/images/apps/resume-analyzer/1.png",
-        "/images/apps/resume-analyzer/2.png",
-        "/images/apps/resume-analyzer/3.png",
-        "/images/apps/resume-analyzer/4.png"
-      ],
-      "github": "https://github.com/JasperRosales/resume_analyzer",
-      "author": "Jasper Rosales",
-      "status": "approved",
-      "createdAt": "2026-08-05"
-    },
-    {
-      "slug": "cv-builder",
-      "name": "CV Builder",
-      "tagline": "Build ATS-friendly resumes with live editing and PDF export.",
-      "description": "A modern CV builder featuring drag-and-drop sections, real-time preview, customizable templates, and PDF export—all without requiring an account.",
-      "purpose": "To simplify professional resume creation while ensuring ATS compatibility.",
-      "target": "Students, job seekers, and professionals updating their resumes.",
-      "howItWorks": "Fill in your information, rearrange resume sections, preview changes instantly, and export your CV as a professionally formatted PDF.",
-      "icon": "/images/apps/cv-builder/cv-builder.ico",
-      "url": "https://cv-builder-six-eta.vercel.app",
-      "screenshots": [
-        "/images/apps/cv-builder/1.png",
-        "/images/apps/cv-builder/2.png",
-        "/images/apps/cv-builder/3.png",
-        "/images/apps/cv-builder/4.png",
-        "/images/apps/cv-builder/5.png"
-      ],
-      "github": "https://github.com/JasperRosales/cv_builder",
-      "author": "Jasper Rosales",
-      "status": "approved",
-      "createdAt": "2026-08-05"
-    },
-    {
-      "slug": "invoice-generator",
-      "name": "Invoice Generator",
-      "tagline": "Create, manage, and export professional invoices effortlessly.",
-      "description": "A secure invoice management platform built with Next.js that enables freelancers and businesses to generate printable invoices with PDF export.",
-      "purpose": "To provide a simple yet professional solution for invoice creation and management.",
-      "target": "Freelancers, agencies, and small businesses.",
-      "howItWorks": "Enter client and invoice details, customize items and pricing, preview the invoice, and export it as a high-quality PDF.",
-      "icon": "/images/apps/invoice-generator/invoice-generator.ico",
-      "url": "https://invoice-generator-three-nu.vercel.app/",
-      "screenshots": [
-        "/images/apps/invoice-generator/1.png",
-        "/images/apps/invoice-generator/2.png",
-        "/images/apps/invoice-generator/3.png",
-        "/images/apps/invoice-generator/4.png",
-        "/images/apps/invoice-generator/5.png",
-        "/images/apps/invoice-generator/6.png",
-        "/images/apps/invoice-generator/7.png"
-      ],
-      "github": "https://github.com/JasperRosales/invoice-generator",
-      "author": "Jasper Rosales",
-      "status": "approved",
-      "createdAt": "2026-08-05"
-    },
-    {
       "slug": "portfolio-x",
       "name": "Portfolio X",
       "tagline": "A technical portfolio showcasing software engineering expertise.",
@@ -135,6 +68,29 @@
       "author": "Iverene Grace M. Causapin & John Rey V. Bagunas",
       "status": "approved",
       "createdAt": "2026-08-26"
+    },
+    {
+      "slug": "protect-the-baby",
+      "name": "Protect the Baby",
+      "tagline": "Draw underwater barriers to protect the baby from approaching sharks.",
+      "description": "Protect the Baby is a JavaScript game about defending a baby underwater. Players draw barriers that act as protective walls while sharks spawn from cages, creating an urgent, creative challenge to keep the baby safe.",
+      "purpose": "To provide a fun and creative drawing game where players solve quick defensive challenges by building underwater barriers.",
+      "target": "Players who enjoy casual browser games, drawing mechanics, and time-based challenges.",
+      "howItWorks": "Watch sharks emerge from underwater cages, then use a drawing tool to create barriers that block their path to the baby. Complete each arena by keeping the baby protected until the level is cleared.",
+      "icon": "/images/apps/protect-the-baby/protect-the-baby.ico",
+      "url": "https://protect-the-baby.vercel.app/",
+      "screenshots": [
+        "/images/apps/protect-the-baby/start-game.png",
+        "/images/apps/protect-the-baby/spawn-point-and-sharks.png",
+        "/images/apps/protect-the-baby/demo-play.png",
+        "/images/apps/protect-the-baby/level-selection.png",
+        "/images/apps/protect-the-baby/other-levels.png",
+        "/images/apps/protect-the-baby/completed-level-card.png"
+      ],
+      "github": "https://github.com/JasperRosales/protect-the-baby",
+      "author": "Jasper Rosales",
+      "status": "approved",
+      "createdAt": "2026-09-25"
     }
   ]
 }
