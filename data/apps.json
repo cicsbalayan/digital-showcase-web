@@ -91,6 +91,29 @@
       "author": "Jasper Rosales",
       "status": "approved",
       "createdAt": "2026-09-25"
+    },
+    {
+      "slug": "review-well",
+      "name": "Review Well",
+      "tagline": "Review well po! Goodluck sa exams/quizes!",
+      "description": "Review Well is a cozy academic study-club platform where students upload lecture slides (PDF/PPTX), browse public reviewer materials, and keep everything in one personal library",
+      "purpose": "To make studying feel welcoming and manageable by giving students a cozy shared space to collect learning materials, discover helpful reviewers from peers, and build steady review habits together.",
+      "target": "Students who study from lecture slides and want an organized, shareable, low-friction review workflow — particularly study groups and classmates sharing course materials.",
+      "howItWorks": "Sign in with Google (or browse as a guest). Upload a PDF or PPTX to create a reviewer, set it public, unlisted, or private, and open it in the reading hub. Save guides you love, follow creators, and get notified of new reviews.",
+      "icon": "/images/apps/review-well/review-well.ico",
+      "url": "https://review-well.vercel.app/",
+      "screenshots": [
+        "/images/apps/review-well/landing.png",
+        "/images/apps/review-well/home.png",
+        "/images/apps/review-well/public.png",
+        "/images/apps/review-well/reviewer.png",
+        "/images/apps/review-well/profile.png",
+        "/images/apps/review-well/add.png"
+      ],
+      "github": "https://github.com/iverene/review-well",
+      "author": "Iverene Grace M. Causapin",
+      "status": "submitted",
+      "createdAt": "2026-09-26"
     }
   ]
 }
