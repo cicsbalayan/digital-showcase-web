@@ -103,12 +103,12 @@
       "icon": "/images/apps/review-well/review-well.ico",
       "url": "https://review-well.vercel.app/",
       "screenshots": [
-        "/images/apps/review-well-landing.png",
-        "/images/apps/review-well-home.png",
-        "/images/apps/review-well-public.png",
-        "/images/apps/review-well-reviewer.png",
-        "/images/apps/review-well-profile.png",
-        "/images/apps/review-well-add.png"
+        "/images/apps/review-well/review-well-landing.png",
+        "/images/apps/review-well/review-well-home.png",
+        "/images/apps/review-well/review-well-public.png",
+        "/images/apps/review-well/review-well-reviewer.png",
+        "/images/apps/review-well/review-well-profile.png",
+        "/images/apps/review-well/review-well-add.png"
       ],
       "github": "https://github.com/iverene/review-well",
       "author": "Iverene Grace M. Causapin",
