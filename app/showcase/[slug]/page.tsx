@@ -8,7 +8,7 @@ import { ArrowLeft, ExternalLink, Globe, Info, ListChecks, Target, Users } from 
 
 import { GithubIcon } from "@/components/github-icon"
 import { Navbar } from "@/components/navbar"
-import { ScreenshotLightbox } from "@/components/screenshot-lightbox"
+import { ScreenshotLightboxWrapper } from "@/components/screenshot-lightbox-wrapper"
 import { Card, CardContent, CardDescription, CardTitle } from "@/components/ui/card"
 import { buttonVariants } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
@@ -169,7 +169,7 @@ export default async function AppDetailPage({
         {app.screenshots.length > 0 ? (
           <section className="mt-16">
             <h2 className="font-heading text-2xl font-semibold tracking-tight">Screenshots</h2>
-            <ScreenshotLightbox screenshots={app.screenshots} name={app.name} />
+            <ScreenshotLightboxWrapper screenshots={app.screenshots} name={app.name} />
           </section>
         ) : null}
       </main>
