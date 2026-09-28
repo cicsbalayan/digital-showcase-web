@@ -114,6 +114,28 @@
       "author": "Iverene Grace M. Causapin",
       "status": "approved",
       "createdAt": "2026-09-26"
+    },
+    {
+      "slug": "mc-skin-viewer",
+      "name": "MC Skin Viewer",
+      "tagline": "View your Minecraft skin in 3D and download it as profile picture!",
+      "description": "MC Skin Viewer is a Minecraft skin viewer that allows users to view their Minecraft skin in 3D and download it to use it as their Minecraft profile picture.",
+      "purpose": "To provide a fun, accessible, and quick way to view and download Minecraft skins for profile pictures.",
+      "target": "Casual gamers, students, and anyone looking for a simple and accessible Minecraft skin viewer.",
+      "howItWorks": "Users can upload their Minecraft skin (PNG format) and view it in a 3D interactive viewer. They can rotate, zoom, and inspect their skin from all angles, and capture a screenshot of the skin to save it as their Minecraft profile picture.",
+      "icon": "/images/apps/mc-skin-viewer/mc-skin-viewer.ico",
+      "url": "https://mc-skin-viewer.vercel.app",
+      "screenshots": [
+        "/images/apps/mc-skin-viewer/overlayTrue.png",
+        "/images/apps/mc-skin-viewer/overlayFalse.png",
+        "/images/apps/mc-skin-viewer/importedSkin1.png",
+        "/images/apps/mc-skin-viewer/importedSkin2.png",
+        "/images/apps/mc-skin-viewer/zoomOutScene.png"
+      ],
+      "github": "https://github.com/John-Patrick-Russel-Lalo/mc-skin-viewer",
+      "author": "John Patrick Russel Lalo",
+      "status": "approved",
+      "createdAt": "2026-09-27"
     }
   ]
 }
