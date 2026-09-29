@@ -136,6 +136,27 @@
       "author": "John Patrick Russel Lalo",
       "status": "approved",
       "createdAt": "2026-09-27"
+    },
+    {
+      "slug": "flori",
+      "name": "Flori",
+      "tagline": "A modern flower discovery and care application.",
+      "description": "Flori is a modern flower discovery and care application that helps users explore different flower species, learn how to care for them, and build their own digital flower collection. Designed with a clean and intuitive interface, Flori makes plant information accessible for beginners, hobbyists, and gardening enthusiasts alike.",
+      "purpose": "To make plant information accessible and help users explore, identify, and care for flowers through a clean, intuitive interface.",
+      "target": "Beginners, hobbyists, gardening enthusiasts, and anyone interested in learning about flowers and plant care.",
+      "howItWorks": "Browse a collection of flowers with beautiful imagery, search flowers by name, view detailed information and characteristics, learn proper watering, sunlight, and maintenance requirements, and save favorite flowers for quick access.",
+      "icon": "/images/apps/flori/flori.ico",
+      "url": "https://flori-lovat.vercel.app",
+      "screenshots": [
+        "/images/apps/flori/1.png",
+        "/images/apps/flori/2.png",
+        "/images/apps/flori/3.png",
+        "/images/apps/flori/4.png"
+      ],
+      "github": "https://github.com/JasperRosales/Flori",
+      "author": "Jasper Rosales",
+      "status": "approved",
+      "createdAt": "2026-09-29"
     }
   ]
 }
