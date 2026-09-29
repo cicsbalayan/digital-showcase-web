@@ -1,52 +1,6 @@
 {
   "apps": [
     {
-      "slug": "portfolio-x",
-      "name": "Portfolio X",
-      "tagline": "A technical portfolio showcasing software engineering expertise.",
-      "description": "A personal portfolio highlighting projects, skills, achievements, and technical experience with a modern responsive interface.",
-      "purpose": "To serve as a professional portfolio for employers and collaborators.",
-      "target": "Recruiters, clients, and fellow developers.",
-      "howItWorks": "Browse featured projects, technical skills, certifications, and contact information in a responsive portfolio.",
-      "icon": "/images/apps/portfolio-x/portfolio-x.ico",
-      "url": "https://portfolio-x-asper.vercel.app",
-      "screenshots": [
-        "/images/apps/portfolio-x/1.png",
-        "/images/apps/portfolio-x/2.png",
-        "/images/apps/portfolio-x/3.png",
-        "/images/apps/portfolio-x/4.png",
-        "/images/apps/portfolio-x/5.png",
-        "/images/apps/portfolio-x/6.png",
-        "/images/apps/portfolio-x/7.png"
-      ],
-      "github": "https://github.com/JasperRosales/portfolio-x",
-      "author": "Jasper Rosales",
-      "status": "approved",
-      "createdAt": "2026-08-05"
-    },
-    {
-      "slug": "digital-showcase",
-      "name": "Digital Showcase",
-      "tagline": "A centralized platform for showcasing achievements and announcements.",
-      "description": "A digital showcase for displaying organizational achievements, projects, and announcements in a clean and accessible interface.",
-      "purpose": "To highlight accomplishments and important updates for organizations and students.",
-      "target": "Student organizations and educational institutions.",
-      "howItWorks": "Browse categorized achievements, announcements, and featured projects from different organizations.",
-      "icon": "/images/apps/digital-showcase/digital-showcase.ico",
-      "url": "https://digital-showcase-web.vercel.app",
-      "screenshots": [
-        "/images/apps/digital-showcase/1.png",
-        "/images/apps/digital-showcase/2.png",
-        "/images/apps/digital-showcase/3.png",
-        "/images/apps/digital-showcase/4.png",
-        "/images/apps/digital-showcase/5.png"
-      ],
-      "github": "https://github.com/JasperRosales/digital-showcase",
-      "author": "Jasper Rosales",
-      "status": "approved",
-      "createdAt": "2026-08-05"
-    },
-    {
       "slug": "stuck-on-you",
       "name": "Stuck on You",
       "tagline": "An anonymous Valentine's message board with digital sticky notes on a shared corkboard.",
