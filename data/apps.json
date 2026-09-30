@@ -111,6 +111,22 @@
       "author": "Jasper Rosales",
       "status": "approved",
       "createdAt": "2026-09-29"
+    },
+    {
+      "slug": "workflow",
+      "name": "Workflow",
+      "tagline": "CV Builder & Resume Analyzer",
+      "description": "Workflow is a unified CV Builder and Resume Analyzer that helps users create professional resumes and analyze them for ATS compatibility. Built with Next.js 16, React 19, and TypeScript, it offers a modern, intuitive interface for building, exporting, and optimizing resumes.",
+      "purpose": "To help users build professional resumes and analyze them for ATS compatibility with AI-powered insights.",
+      "target": "Job seekers, students, and professionals who want to create polished resumes and optimize them for applicant tracking systems.",
+      "howItWorks": "Use the CV Builder tab to fill in personal details, experience, education, and skills with drag-and-drop section reordering, then export as PDF or JSON. Use the Resume Analyzer tab to upload a PDF or DOCX resume, optionally paste a job description, and receive an ATS score, keyword analysis, and actionable recommendations.",
+      "icon": "/images/apps/workflow/workflow.ico",
+      "url": "",
+      "screenshots": [],
+      "github": "https://github.com/JasperRosales/workflow",
+      "author": "Jasper Rosales",
+      "status": "approved",
+      "createdAt": "2026-10-01"
     }
   ]
 }
